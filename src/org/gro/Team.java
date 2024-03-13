@@ -11,6 +11,10 @@ public class Team {
 		System.out.println("ThrowBall");
 
 	}
+	private void handBall() {
+		System.out.println("HandBall");
+
+	}
 	
 
 }
