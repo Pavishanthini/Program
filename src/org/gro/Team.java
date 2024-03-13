@@ -11,6 +11,8 @@ public class Team {
 		System.out.println("ThrowBall");
 
 	}
-	
+	private void football() {
+		System.out.println("FootBall");
+	}
 
 }
